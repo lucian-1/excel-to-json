@@ -39,9 +39,9 @@ excel转为json的小工具
 
 设置Excel文件名为 'toJson.xls'  
 rename.sh  
- `#!/bin/bash
- a = ls |grep $'.xls';
- mv $a toJson.xls;`  
+`#!/bin/bash`  
+`a = ls |grep $'.xls';`  
+`mv $a toJson.xls;`  
 
 1.需要python2  
 `$python --version`  
