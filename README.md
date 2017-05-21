@@ -1,12 +1,12 @@
 # excel-to-json
-Tool for excel to json;  
+Tool for excel to json  
 
 ## Usage
->If you have not installed Python or not use python2;  
->Is better to use virtualenv ;  
+>If you have not installed Python or not use python2  
+>Is better to use virtualenv  
 >[virtualenv](https://github.com/pypa/virtualenv)  
 
-Rename the excel file to 'toJson.xls';  
+Rename the excel file to 'toJson.xls'  
 rename.sh  
  `#!/bin/bash
  a = ls |grep $'.xls';
@@ -16,15 +16,15 @@ rename.sh
 `$python --version`  
 `$python2.7`  
 
-2.pip install requirements;  
+2.pip install requirements  
 `$pip install -- upgrade pip`  
 `$pip install -r requirements.txt`  
 
 3.run  
  `$sudo python excel2json.py`  
 
-### if no permission, file permission 777;  
-Just a small tool, you can modify modify it according to your needs;  
+### if no permission, file permission 777  
+Just a small tool, you can modify modify it according to your needs  
 
 #
 #
