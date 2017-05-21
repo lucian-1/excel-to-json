@@ -8,9 +8,9 @@ Tool for excel to json
 
 Rename the excel file to 'toJson.xls'  
 rename.sh  
- `#!/bin/bash
- a = ls |grep $'.xls';
- mv $a toJson.xls;`  
+ `#!/bin/bash`  
+ `a = ls |grep $'.xls';`  
+ `mv $a toJson.xls;`  
 
 1.require python2;  
 `$python --version`  
