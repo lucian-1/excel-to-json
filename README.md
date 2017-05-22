@@ -1,5 +1,5 @@
 # excel-to-json
-Tool for excel to json  
+A tool for excel to json  
 
 ## Usage
 >If you have not installed Python or not use python2  
